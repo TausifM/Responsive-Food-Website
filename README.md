@@ -3,3 +3,10 @@
 
 # Responsive-Food-Website
 This is for FOOD WEBSITE which is fully responsive with stick menu on mobile device
+
+Hi! My name is **Tausif Sheikh**,
+
+## Author
+
+**Tausif Sheikh**
+**LinkedIn** Click [Here](https://in.linkedin.com/in/tausifsheikh) **@Tausif Sheikh**
